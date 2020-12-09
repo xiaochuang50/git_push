@@ -1,5 +1,6 @@
 package com.wulin;
 
+//八皇后问题
 public class Queen8 {
     int max = 8;
     int[] array = new int[max];
